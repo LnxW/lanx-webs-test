@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>LANX Showcase</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Hero -->
+  <section class="hero">
+    <h1>@faizzdaniel._</h1>
+    <p>LANX | Clean Streetwear Vibes</p>
+  </section>
+
+  <!-- Slideshow -->
+  <section class="slideshow-container">
+    <div class="slides fade">
+      <img src="images/arai1.png" alt="Arai 1">
+    </div>
+    <div class="slides fade">
+      <img src="images/arai2.jpg" alt="Arai 2">
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>Follow on <a href="https://instagram.com/faizzdaniel._" target="_blank">Instagram</a></p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
